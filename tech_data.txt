@@ -1,0 +1,10 @@
+### API Authentication
+System uses OAuth authentication.
+Access token required for requests.
+
+### Token Expiry
+Tokens expire after fixed duration.
+Refresh token generates new access.
+
+### Error Handling
+401 error indicates unauthorized access.
